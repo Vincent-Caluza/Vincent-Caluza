@@ -29,7 +29,7 @@ As a 2nd year IT student, I’m focusing on strengthening my understanding of pr
 
 ### 🎓 Certifications
 - [SQL and Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/3fe62b59e1f04c4091b22ea2a24b5c9c)
-
+- https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-2025/148056?fbclid=IwY2xjawOij4VleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEePamxKzCCTXoEeP_YALHONQPGthn96DDb6-zNoBCZSQFr2RLo2p-99-778Ho_aem_5wVA52SCh_qGvbjDl9Jxyg
 ---
 
 ### 📊 GitHub Stats
